@@ -57,3 +57,6 @@ Since this is a fully static site, you can host it on GitHub Pages:
 
 1. Push to a branch named `gh-pages`, or in Settings ▶️ Pages set **Source** to `main` / `docs/`.  
 2. Your site will be available at:  
+
+
+> Made with ❤️ by [pulak-ranjan](https://github.com/pulak-ranjan)
